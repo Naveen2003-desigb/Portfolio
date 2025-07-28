@@ -61,7 +61,7 @@ const Contact = () => {
           <div className="flex flex-row gap-2 ml-25">
             <p>
               <img
-                src="/images/ad6e8c17a5c3869aaff6d51eaf5ea3de.jpg"
+                src="public/images/54de000e63daac2b763707a5ef36ec49.jpg"
                 alt=""
                 srcset=""
                 className="w-6  mt-5 rounded-lg border-1 border-cyan-300  hover:bg-cyan-300 shadow-2xl shadow-cyan-300"
